@@ -48,7 +48,7 @@ Using cmd prompt in Window:
 
 php composer create-project --prefer-dist --stability=dev yiisoft/yii2-app-basic basic
 
-Then you upload the angularinventory.sql file phpmyadmin
+Then you upload the angularinventory.sql file to phpmyadmin
 
 Add these files into your basic folders:
 
@@ -61,7 +61,7 @@ Add these files into your basic folders:
 
 The correct way of creating model & controller files is using:
 
-//www(dot)yourcompanyname(dot)com/basic/web/index.php?r=gii
+//www(dot)yourcompanyname(dot)com/web/index.php?r=gii
 
 //localhost/basic/web/index.php?r=gii
 
