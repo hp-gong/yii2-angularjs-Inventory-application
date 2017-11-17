@@ -75,7 +75,7 @@ localhost:
 
 domain:
 
-//www(dot)yourcompanyname(dot)com/basic/web/index.php?r=inventory
+//www(dot)yourcompanyname(dot)com/web/index.php?r=inventory
 
 == Languages and Software==
 
