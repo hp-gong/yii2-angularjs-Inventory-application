@@ -1,9 +1,5 @@
 # yii2-angularjs-inventory-application
 
-** Apparently there is some issue uploading the files. **
-
-** I put all the files in the yii2-angularjs-inventory.zip and you can extract the files **
-
 ** The img preview folder contain images of the Inventory application. **
 
 == Description ==
